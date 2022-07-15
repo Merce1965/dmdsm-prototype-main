@@ -1,2 +1,2 @@
-# dmdsm-prototype-main
- Local version of dsm for user research
+# dsm-main
+ Defence service manual prototype
